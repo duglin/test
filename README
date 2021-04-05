@@ -1,0 +1,15 @@
+# Testing
+
+Line 1
+
+<!-- Hidden -->
+
+middle comment <!-- hidden --> blah
+
+Line 2 
+
+[//]: # testing
+
+[//]: testing
+
+and more
